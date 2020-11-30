@@ -9,3 +9,5 @@ To set the resolution:
 
     setres_ssr_ width height
 By default, the model coords are assumed to be right-handed with +Z up and +Y forward. The up and forward vectors can be changed by setting `up_ssr_` and `fwd_ssr_` (must be orthogonal and normalized).
+## Result
+![Example Cube Render](result.png)
